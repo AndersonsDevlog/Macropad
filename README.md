@@ -10,5 +10,5 @@ A custom 12-key macropad with **2 rotary encoders** and **per-key RGB LED lighti
 - **RGB LED lighting** ([SK6812MINI-E / WS2812B], addressable)
 - **USB-C** for power and data
 - **[MCU]** microcontroller ([RP2040 / STM32 / ATmega32U4])
-- **3D-printable [case / plate]** (`Macropad.stl`)
+- **3D view** (`Macropad.stl`)
 - Firmware: [QMK / KMK / CircuitPython]
